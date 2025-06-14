@@ -1,1 +1,6 @@
 Kuberenetes -Context
+K8s -Kuberenetes
+K8s Architecture
+Master Node (API-server,Scheduler,etcd,Controller)
+worker Node (kubectl,Certificate-CA,Proxy)
+
